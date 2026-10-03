@@ -1,0 +1,35 @@
+AI-BASED PLAGIARISM DETECTION SYSTEM - ANALYSIS REPORT
+================================================================================
+
+Total Documents Analyzed: 100
+Document Type Distribution:
+  Paraphrased: 43 (43.0%)
+  Plagiarized: 29 (29.0%)
+  Original: 28 (28.0%)
+
+
+Document Characteristics:
+--------------------------------------------------------------------------------
+Average Word Count: 13.13
+Average Unique Words: 11.38
+Average Character Count: 103.39
+Word Count Range: 7 - 27
+
+
+Document Type Analysis:
+--------------------------------------------------------------------------------
+
+Paraphrased:
+  Count: 43
+  Avg Word Count: 10.16
+  Avg Unique Words: 7.77
+
+Original:
+  Count: 28
+  Avg Word Count: 9.82
+  Avg Unique Words: 9.54
+
+Plagiarized:
+  Count: 29
+  Avg Word Count: 20.72
+  Avg Unique Words: 18.52
